@@ -10,6 +10,7 @@ public interface ICountryDAO {
 
 
     boolean delete(int id);
+    boolean f2(int id);
 
 
 }
