@@ -11,6 +11,7 @@ public interface ICountryDAO {
 
     boolean delete(int id);
     boolean f2(int id);
+    boolean f22(int id);
 
 
 }
