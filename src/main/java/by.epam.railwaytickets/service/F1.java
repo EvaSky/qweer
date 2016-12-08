@@ -5,5 +5,6 @@ package by.epam.railwaytickets.service;
  */
 public class F1 {
 private String f1_1;
+private String f1_2;
 
 }
